@@ -305,7 +305,7 @@ Beispiel für Fettschrift in Listen:
 """
 
 root = tk.Tk()
-root.title("Blog Generator")
+root.title("Blog Generator coded by valuecoding 2024")
 
 style = ttk.Style()
 style.theme_use('clam')
